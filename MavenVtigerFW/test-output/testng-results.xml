@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Campagin Create Successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26445" started-at="2020-03-08T08:15:18Z" finished-at="2020-03-08T08:15:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26445" started-at="2020-03-08T08:15:18Z" finished-at="2020-03-08T08:15:44Z">
+      <class name="com.vtiger.testScripts.CreateCampTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.vtiger.testScripts.CreateCampTest@6093dd95]" name="configBS" is-config="true" duration-ms="32" started-at="2020-03-08T08:15:18Z" finished-at="2020-03-08T08:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.vtiger.testScripts.CreateCampTest@6093dd95]" name="configBC" is-config="true" duration-ms="6341" started-at="2020-03-08T08:15:18Z" finished-at="2020-03-08T08:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vtiger.testScripts.CreateCampTest@6093dd95]" name="configBM" is-config="true" duration-ms="4458" started-at="2020-03-08T08:15:24Z" finished-at="2020-03-08T08:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCampgin()[pri:0, instance:com.vtiger.testScripts.CreateCampTest@6093dd95]" name="createCampgin" duration-ms="13636" started-at="2020-03-08T08:15:29Z" finished-at="2020-03-08T08:15:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Campagin Create Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createCampgin -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vtiger.testScripts.CreateCampTest@6093dd95]" name="configAM" is-config="true" duration-ms="1270" started-at="2020-03-08T08:15:42Z" finished-at="2020-03-08T08:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vtiger.testScripts.CreateCampTest@6093dd95]" name="configAC" is-config="true" duration-ms="721" started-at="2020-03-08T08:15:44Z" finished-at="2020-03-08T08:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.vtiger.testScripts.CreateCampTest@6093dd95]" name="configAS" is-config="true" duration-ms="0" started-at="2020-03-08T08:15:44Z" finished-at="2020-03-08T08:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.vtiger.testScripts.CreateCampTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
